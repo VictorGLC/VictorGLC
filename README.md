@@ -11,4 +11,4 @@
 
 ### Um dos meus projetos: 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VictorGLC&repo=chess-boardgame&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VictorGLC&repo=chess-boardgame&theme=dark)](https://github.com/VictorGLC/chess-boardgame)
