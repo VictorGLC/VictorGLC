@@ -13,7 +13,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGLC&layout=compact&theme=dark&langs_count=8&card_width=320" />
 </a>
 
-# Alguns dos meus projetos / A few of my projects: 
+# Alguns dos meus projetos / A few of my projects 
 
 <a href="https://github.com/VictorGLC/chess-boardgame">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorGLC&repo=chess-boardgame&theme=dark&langs_count=8&card_width=320" />
