@@ -7,19 +7,19 @@
 
 # Estatísticas / Statistics
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VictorGLC&theme=dark&hide_rank=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VictorGLC&theme=radical&hide_rank=true" />
 </a>
 <a href="https://github.com/VictorGLC">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGLC&layout=compact&theme=dark&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGLC&layout=compact&theme=radical&langs_count=8&card_width=320" />
 </a>
 
 # Alguns dos meus projetos / A few of my projects 
 
 <a href="https://github.com/VictorGLC/chess-boardgame">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorGLC&repo=chess-boardgame&theme=dark&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorGLC&repo=chess-boardgame&theme=radical&langs_count=8&card_width=320" />
 </a>
 <br>
 <a href="https://github.com/VictorGLC/spring-boot-webservice">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorGLC&repo=spring-boot-webservice&theme=dark&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorGLC&repo=spring-boot-webservice&theme=radical&langs_count=8&card_width=320" />
 </a>
 
