@@ -1,25 +1,32 @@
-# Sobre mim / About me
-### Olá! Meu nome é Victor. Atualmente sou estudante de Ciência da Computação na Universidade Estadual de Maringá (UEM) e faço alguns projetos para me divertir. 🇧🇷
+# 👋 Olá, eu sou o Victor
 
-### Hello! My name is Victor. I'm currently studying Computer Science at the State University of Maringá and I do some projects for fun. 🇺🇸
+🎓 Estudante de Ciência da Computação na Universidade Estadual de Maringá (UEM), apaixonado por tecnologia e desenvolvimento de software.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-costa-899770224/)
+💻 Tenho experiência em desenvolvimento backend, especialmente com **Java** e **Spring Boot**, além de conhecimentos em frontend com **React** e **TypeScript**. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.
 
-# Estatísticas / Statistics
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VictorGLC&theme=radical&hide_rank=true" />
-</a>
-<a href="https://github.com/VictorGLC">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGLC&layout=compact&theme=radical&langs_count=8&card_width=320" />
-</a>
+📚 Atualmente, estou focado em projetos que envolvem **APIs RESTful**, **microsserviços** e boas práticas de desenvolvimento ágil.
 
-# Alguns dos meus projetos / A few of my projects 
+---
 
-<a href="https://github.com/VictorGLC/chess-boardgame">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorGLC&repo=chess-boardgame&theme=radical&langs_count=8&card_width=320" />
-</a>
-<br>
-<a href="https://github.com/VictorGLC/spring-boot-webservice">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorGLC&repo=spring-boot-webservice&theme=radical&langs_count=8&card_width=320" />
-</a>
+## 🚀 Tecnologias e Ferramentas
 
+- **Linguagens:** Java, JavaScript, TypeScript
+- **Frameworks:** Spring Boot, React
+- **Banco de Dados:** MySQL, PostgreSQL, MongoDB
+- **Ferramentas:** Git, Postman
+
+---
+
+## 📈 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=victorglc&show_icons=true&theme=radical)
+
+---
+
+## 📫 Como me encontrar
+
+- [LinkedIn](https://www.linkedin.com/in/victorglcosta)
+  
+---
+
+✨ Sinta-se à vontade para explorar meus repositórios ou entrar em contato!
