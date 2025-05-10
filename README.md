@@ -11,7 +11,7 @@
 ## 🚀 Tecnologias e Ferramentas
 
 - **Linguagens:** Java, JavaScript, TypeScript, Python
-- **Backend:**d Spring Boot, JPA/Hibernate
+- **Backend:** Spring Boot, JPA/Hibernate
 - **Frontend:** React, Next.js
 - **Banco de Dados:** MySQL, PostgreSQL, MongoDB
 - **Ferramentas:** Git, Postman
